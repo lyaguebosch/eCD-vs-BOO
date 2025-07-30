@@ -35,4 +35,4 @@ The code is based on a gate originally proposed by Saffman et al. [1]. The gate 
 
 [2] L. S. Yagüe Bosch, T. Ehret, F. Petiziol, E. Arimondo, and S. Wimberger, Shortcut-to-Adiabatic Controlled- Phase Gate in Rydberg Atoms, Annalen der Physik 535, 2300275 (2023).
 
-[3] Q-CTRL, Boulder Opal documentation: Design ro- bust rydberg blockade two-qubit gates in cold atoms, https://docs.q-ctrl.com/boulder-opal/apply/rydberg- atom-quantum-computing/design-robust-rydberg- blockade-two-qubit-gates-in-cold-atoms (2022),
+[3] Q-CTRL, Boulder Opal documentation: Design ro- bust rydberg blockade two-qubit gates in cold atoms, https://docs.q-ctrl.com/boulder-opal/apply/rydberg-atom-quantum-computing/design-robust-rydberg- blockade-two-qubit-gates-in-cold-atoms (2022),
